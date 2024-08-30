@@ -41,54 +41,47 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDsnvt0ztfHLRXdiAWJAynJLNJQJf3mmsg',
-    appId: '1:17792744799:web:d9c7847e414c826e214aea',
-    messagingSenderId: '17792744799',
-    projectId: 'rdp-78ed7',
-    authDomain: 'rdp-78ed7.firebaseapp.com',
-    databaseURL: 'https://rdp-78ed7-default-rtdb.firebaseio.com',
-    storageBucket: 'rdp-78ed7.appspot.com',
-    measurementId: 'G-DVH8SYWHTX',
+    apiKey: 'AIzaSyAXj0y27eoWgwDtQ-Uxm7-9I8kFeTHFCA0',
+    appId: '1:685919055288:web:16ea1654dda780ef0d334d',
+    messagingSenderId: '685919055288',
+    projectId: 'rdp-todolist3',
+    authDomain: 'rdp-todolist3.firebaseapp.com',
+    storageBucket: 'rdp-todolist3.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBov9aNeMnpxe1_0i49C5HiK43_fMhoBlU',
-    appId: '1:17792744799:android:098ce879685dcd4b214aea',
-    messagingSenderId: '17792744799',
-    projectId: 'rdp-78ed7',
-    databaseURL: 'https://rdp-78ed7-default-rtdb.firebaseio.com',
-    storageBucket: 'rdp-78ed7.appspot.com',
+    apiKey: 'AIzaSyCmalF2LFwyGkD_VCZnKF2wA2BUuxtAEcw',
+    appId: '1:685919055288:android:1ca28cca8a5c0e770d334d',
+    messagingSenderId: '685919055288',
+    projectId: 'rdp-todolist3',
+    storageBucket: 'rdp-todolist3.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBj818xwvWAFrvyelU9Q8pYxWqfpsj04M4',
-    appId: '1:17792744799:ios:16e7e6a024d0ddad214aea',
-    messagingSenderId: '17792744799',
-    projectId: 'rdp-78ed7',
-    databaseURL: 'https://rdp-78ed7-default-rtdb.firebaseio.com',
-    storageBucket: 'rdp-78ed7.appspot.com',
+    apiKey: 'AIzaSyCInrk-9yJGf5O0bW2nUTUfExVRvS0YJyo',
+    appId: '1:685919055288:ios:abe003cd0c7bafdb0d334d',
+    messagingSenderId: '685919055288',
+    projectId: 'rdp-todolist3',
+    storageBucket: 'rdp-todolist3.appspot.com',
     iosBundleId: 'com.example.rdpTodolist3',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBj818xwvWAFrvyelU9Q8pYxWqfpsj04M4',
-    appId: '1:17792744799:ios:16e7e6a024d0ddad214aea',
-    messagingSenderId: '17792744799',
-    projectId: 'rdp-78ed7',
-    databaseURL: 'https://rdp-78ed7-default-rtdb.firebaseio.com',
-    storageBucket: 'rdp-78ed7.appspot.com',
+    apiKey: 'AIzaSyCInrk-9yJGf5O0bW2nUTUfExVRvS0YJyo',
+    appId: '1:685919055288:ios:abe003cd0c7bafdb0d334d',
+    messagingSenderId: '685919055288',
+    projectId: 'rdp-todolist3',
+    storageBucket: 'rdp-todolist3.appspot.com',
     iosBundleId: 'com.example.rdpTodolist3',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDsnvt0ztfHLRXdiAWJAynJLNJQJf3mmsg',
-    appId: '1:17792744799:web:2e4b521c729be63e214aea',
-    messagingSenderId: '17792744799',
-    projectId: 'rdp-78ed7',
-    authDomain: 'rdp-78ed7.firebaseapp.com',
-    databaseURL: 'https://rdp-78ed7-default-rtdb.firebaseio.com',
-    storageBucket: 'rdp-78ed7.appspot.com',
-    measurementId: 'G-L3TPYC29BC',
+    apiKey: 'AIzaSyAXj0y27eoWgwDtQ-Uxm7-9I8kFeTHFCA0',
+    appId: '1:685919055288:web:f823d00ccf62f89b0d334d',
+    messagingSenderId: '685919055288',
+    projectId: 'rdp-todolist3',
+    authDomain: 'rdp-todolist3.firebaseapp.com',
+    storageBucket: 'rdp-todolist3.appspot.com',
   );
 
 }
